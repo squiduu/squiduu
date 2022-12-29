@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @squiduu
-- 👀 I’m interested in AI, especially Computer Vision (CV) and Natural Language Processing (NLP) 
-- 🌱 I’m currently learning at PRML, Korea University, South Korea
+- 👀 I’m interested in Computer Vision (CV), Natural Language Processing (NLP), and Explainable Artificial Intelligence (XAI)
+- 🌱 I’m currently learning at a laboratory of Pattern Recognition and Machine Learning (PRML), Korea University, South Korea
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

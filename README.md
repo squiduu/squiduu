@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📑 What I published
 
-      Tae-Jin Woo et al., "Compensatory Debiasing for Gender Imbalances in Language Models", ICASSP, 2023 (Oral Presentation)
+      Woo et al., "Compensatory Debiasing for Gender Imbalances in Language Models", ICASSP, 2023 (Oral Presentation)
 
 
 <!---

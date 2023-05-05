@@ -3,7 +3,7 @@
 - 🌱 I’m currently in a laboratory of Pattern Recognition and Machine Learning (PRML), Korea University, South Korea
 - 📑 What I published ...
 
-      Woo et al., "Compensatory Debiasing for Gender Imbalances in Language Models", ICASSP, 2023 (Oral Presentation)
+      T-J. Woo, W-J. Nam, Y-J. Ju, and S-W. Lee, "Compensatory Debiasing for Gender Imbalances in Language Models", ICASSP, 2023 (Oral Presentation)
 
 
 <!---

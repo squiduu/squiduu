@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tae-Jin Woo
-- 👀 I’m interested in Computer Vision (CV), Natural Language Processing (NLP), and Explainable Artificial Intelligence (XAI)
+- 👀 I’m interested in Natural Language Processing (NLP), Computer Vision (CV), and Explainable Artificial Intelligence (XAI)
 - 🌱 I’m currently in a laboratory of Pattern Recognition and Machine Learning (PRML), Korea University, South Korea
 - 📑 What I published ...
 
